@@ -1,4 +1,3 @@
-layout_spectrum: 0.5039679910987616
 typography_spectrum: 0.5837617046199739
 color:
   brandStrength: 0.25018530059605837
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.5039679910987616
 name: omomomo
 title: Drawings by Troy Mattison Hicks
+description: aka OMOMOMO

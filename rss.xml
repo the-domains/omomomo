@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Strange Things From The Interweb]]></title>
+        <description><![CDATA[Strange Things From The Interweb]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 13:56:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This creepy robot is powered by a neural network]]></title>
+            <description><![CDATA[<article><h1>This creepy robot is powered by a neural network</h1><p>It has a mask-like, yet eerily expressive face and a body made up of gears and wires. This humanoid robot called "Alter" is powered entirely by a neural network that gives it the ability to move by itself. Yes, it is as creepy -- and as fascinating -- as it sounds.</p></article>]]></description>
+            <link>http://www.cbsnews.com/news/this-creepy-robot-is-powered-by-a-neural-network/</link>
+            <guid isPermaLink="false">7d8f05a9-8d28-4493-b51b-4eba46d3378f</guid>
+            <pubDate>Wed, 03 Aug 2016 13:56:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
